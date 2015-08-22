@@ -1,0 +1,100 @@
+body{
+padding: 30px;
+background-image: url('walt.jpg'); 
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center; 
+background-size: 100%, 100%;
+background-color: transparent;
+}
+
+li{
+display: inline;
+padding-right: 10px;
+padding-left: 10px;
+text-align: center;
+font-family: 'Amatic SC', cursive;
+font-size: 30px;
+
+}
+
+ul{
+text-align: center;
+}
+
+.link{
+color: #8F201E;
+}
+
+.tekst{
+font-family: 'Handlee', cursive;
+font-size: 20px;
+text-align: left;
+text-decoration: none;
+text-indent: 10px;
+white-space:normal;
+word-spacing:1px;
+}
+
+h1{
+font-family: 'Amatic SC', cursive;
+text-shadow:5px 5px 5px grey;
+text-transform:uppercase;
+letter-spacing:2px;
+}
+
+.slika{
+position: absolute;
+top: 125px;
+right: 100px;
+}
+
+.slika1{
+position: absolute;
+top: 120px;
+right: 370px;
+}
+
+.slika2{
+position: absolute;
+top: 460px;
+right: 115px;
+}
+
+.lista{
+position:absolute;
+left:10px; right:10px;
+height: 65px;
+background: rgba(255, 198, 191, 0.7);
+}
+
+.main{
+position:absolute;
+left:20px; top:130px; bottom:;
+width: 700px;
+background: rgba(255, 198, 191, 0.7);
+font-size: 12px;
+}
+
+.main2{
+position:absolute;
+left:20px; top:440px; bottom:;
+width: 700px;
+background: rgba(255, 198, 191, 0.7);
+font-size: 12px;
+}
+
+.main3{
+position:absolute;
+left:20px; top:800px; bottom:;
+height: 65px;
+background: rgba(255, 198, 191, 0.7);
+}
+
+.pat{
+position: absolute;
+top: 800px;
+left: 20px;
+width: 1310px;
+height: 25px;
+}

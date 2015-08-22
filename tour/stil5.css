@@ -1,0 +1,53 @@
+body{
+padding: 30px;
+/*url: http://3.bp.blogspot.com/-DCxbbXtiGSE/UibDRkv4kvI/AAAAAAAABq4/SLRtgBktJ8Y/s1600/DSC01523.JPG */
+background-image: url('konc.jpg'); 
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center; 
+background-size: 100%, 100%;
+background-color: transparent;
+}
+
+li{
+display: inline;
+padding-right: 10px;
+padding-left: 10px;
+text-align: center;
+font-family: 'Amatic SC', cursive;
+font-size: 30px;
+}
+
+ul{
+text-align: center;
+}
+
+.lista{
+position:absolute;
+left:10px; right:10px;
+height: 65px;
+background: rgba(255, 255, 255, 0.9);
+}
+
+.tablica{
+position:absolute;
+left:20px; top:130px; right:20px; bottom:;
+background: rgba(255, 255, 255, 0.8);
+}
+
+table, table tr, table td, table th{
+	border: 2px solid black;
+	text-align: center;
+    border-collapse: separate;
+    empty-cells: show;
+	border-spacing: 5px;
+	border-collapse:collapse;
+	caption-side: top;
+	table-layout: auto;
+	font-family: 'Amatic SC', cursive;
+	font-size: 40px;
+}
+
+.link{
+color: black;
+}

@@ -1,0 +1,40 @@
+body{
+padding: 30px;
+/*url: http://metrouk2.files.wordpress.com/2013/07/mumford-and-sons.jpg*/
+background-image: url('walp.jpg'); 
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center; 
+background-size: 100%, 100%;
+background-color: transparent;
+}
+
+li{
+display: inline;
+padding-right: 10px;
+padding-left: 10px;
+text-align: center;
+font-family: 'Amatic SC', cursive;
+font-size: 30px;
+}
+
+ul{
+text-align: center;
+}
+
+.lista{
+position:absolute;
+left:10px; right:10px;
+height: 65px;
+background: rgba(255, 255, 255, 0.9);
+}
+
+.link{
+color: black;
+}
+
+.prozor{
+position:absolute;
+left:370px; top:190px; right:370px; bottom:;
+background: rgba(255, 255, 255, 0.8);
+}
